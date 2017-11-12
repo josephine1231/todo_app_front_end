@@ -27,8 +27,9 @@ html{
         list-style: none;
         padding:5px;
         margin:15px;
-        background-color: white;
-        box-shadow:15px 10px 10px grey; 
+        background-color: #ccefff;
+        box-shadow:15px 10px 10px #cccccc; 
         
     }
+    img{ width: 80px;}
     
