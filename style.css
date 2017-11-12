@@ -4,7 +4,7 @@ html{
 }
     .container{
         width:80%;
-        margin:auto;
+        margin:auto ;
     }
     .time-estimate{ font-weight:bold;
                     font-size:12px;
@@ -20,6 +20,7 @@ html{
         border:2px solid black;
         border-radius:5px;
         font-weight: bold;
+        text-align:left;
     }
     h1{text-align: center;
     }
@@ -32,4 +33,6 @@ html{
         
     }
     #homework-gif{ width: 80px;}
+  
+   
     
