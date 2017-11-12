@@ -6,3 +6,16 @@ html{
         width:80%;
         margin:auto;
     }
+    .time-estimate{ font-weight:bold;
+                    font-size:12px;
+                    font-style: oblique;
+                    border-radius: 60px;
+                    padding:2px 8px 2px 8px;
+                    background-color: #99e7ff;
+    }
+    li{ background-color: #80ccff;
+        margin-bottom: 10px;
+        padding:5px 10px 5px 10px;
+        border:2px solid black;
+        border-radius:5px;
+    }
